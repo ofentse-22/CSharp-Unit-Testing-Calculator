@@ -1,0 +1,12 @@
+C:\Users\ofent\OneDrive\Desktop\Projects\AwesomeCalculator\AwesomeCalculator\bin\Debug\net8.0\AwesomeCalculator.deps.json
+C:\Users\ofent\OneDrive\Desktop\Projects\AwesomeCalculator\AwesomeCalculator\bin\Debug\net8.0\AwesomeCalculator.dll
+C:\Users\ofent\OneDrive\Desktop\Projects\AwesomeCalculator\AwesomeCalculator\bin\Debug\net8.0\AwesomeCalculator.pdb
+C:\Users\ofent\OneDrive\Desktop\Projects\AwesomeCalculator\AwesomeCalculator\obj\Debug\net8.0\AwesomeCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ofent\OneDrive\Desktop\Projects\AwesomeCalculator\AwesomeCalculator\obj\Debug\net8.0\AwesomeCalculator.AssemblyInfoInputs.cache
+C:\Users\ofent\OneDrive\Desktop\Projects\AwesomeCalculator\AwesomeCalculator\obj\Debug\net8.0\AwesomeCalculator.AssemblyInfo.cs
+C:\Users\ofent\OneDrive\Desktop\Projects\AwesomeCalculator\AwesomeCalculator\obj\Debug\net8.0\AwesomeCalculator.csproj.CoreCompileInputs.cache
+C:\Users\ofent\OneDrive\Desktop\Projects\AwesomeCalculator\AwesomeCalculator\obj\Debug\net8.0\AwesomeCalculator.dll
+C:\Users\ofent\OneDrive\Desktop\Projects\AwesomeCalculator\AwesomeCalculator\obj\Debug\net8.0\refint\AwesomeCalculator.dll
+C:\Users\ofent\OneDrive\Desktop\Projects\AwesomeCalculator\AwesomeCalculator\obj\Debug\net8.0\AwesomeCalculator.pdb
+C:\Users\ofent\OneDrive\Desktop\Projects\AwesomeCalculator\AwesomeCalculator\obj\Debug\net8.0\ref\AwesomeCalculator.dll
+C:\Users\ofent\OneDrive\Desktop\Projects\AwesomeCalculator\AwesomeCalculator\obj\Debug\net8.0\AwesomeCalculator.sourcelink.json
